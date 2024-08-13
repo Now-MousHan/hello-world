@@ -9,4 +9,9 @@ hello-world
 
 #### 강조 => <code>&lt;em&gt;</code> 기울임, <code>&lt;strong&gt;</code> 두꺼움, <code>&lt;del&gt;</code> 취소선
 
-#### 목록 => <code>&lt;ol&gt;</code>, <code>&lt;ul&gt;</code>, <code>&lt;li&gt;</code> 태그로 변환되는 목록(list)을 나타냅니다.
+#### 목록 => <code>&lt;ol&gt;</code>, <code>&lt;ul&gt;</code>, <code>&lt;li&gt;</code> 태그로 변환되는 목록(list)을 나타냄
+- <code> 1. </code>로 시작시 <code>&lt;ol&gt;</code> 변환
+- <code> - </code>로 시작시 <code>&lt;ul&gt;</code> 변환
+
+#### 링크 => <code>&lt;a&gt;</code>
+
